@@ -56,7 +56,7 @@ To run this project locally, follow these steps:
 ### Clone the Repository
 ```bash
 git clone (https://github.com/BharathL2/Startup-Data-India-Analysis)
-cd Indian_Startup_Analysis
+cd Startup-Data-India-Analysis
 ```
 
 ### Running the application
