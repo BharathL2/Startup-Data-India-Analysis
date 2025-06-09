@@ -1,4 +1,4 @@
-#  Startup-Data-Analysis Funding Analysis
+#  Startup-Data-Analysis
 
 Uncover the pulse of India's rapidly evolving **startup ecosystem** with this **interactive data analysis and visualization dashboard**. Built using **Streamlit**, this tool transforms raw data into compelling insights, offering a clear, dynamic view of funding trends and key aspects of Indian startups, all sourced from a meticulously preprocessed dataset.
 
