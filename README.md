@@ -2,7 +2,9 @@
 
 Uncover the pulse of India's rapidly evolving **startup ecosystem** with this **interactive data analysis and visualization dashboard**. Built using **Streamlit**, this tool transforms raw data into compelling insights, offering a clear, dynamic view of funding trends and key aspects of Indian startups, all sourced from a meticulously preprocessed dataset.
 
-![Alt text](https://github.com/madhans476/Indian_Startup_Analysis/blob/main/samples/HOME.png)   ![Alt text](https://github.com/madhans476/Indian_Startup_Analysis/blob/main/samples/Map.png) ![Alt text](https://github.com/madhans476/Indian_Startup_Analysis/blob/main/samples/Lollipop.png)
+![Home Page Screenshot](https://github.com/BharathL2/Startup-Data-India-Analysis/blob/main/samples/HOME.png) 
+![Geospatial Analysis](https://github.com/BharathL2/Startup-Data-India-Analysis/blob/main/samples/Map.png) 
+![Lollipop Chart Example](https://github.com/BharathL2/Startup-Data-India-Analysis/blob/main/samples/Lollipop.png)
 
 
 ## Project Structure
@@ -53,7 +55,7 @@ To run this project locally, follow these steps:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/madhans476/Indian_Startup_Analysis.git
+git clone (https://github.com/BharathL2/Startup-Data-India-Analysis)
 cd Indian_Startup_Analysis
 ```
 
